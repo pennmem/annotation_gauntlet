@@ -1,0 +1,26 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2014) (preloaded format=latex)
+ restricted \write18 enabled.
+entering extended mode
+
+(/Users/exp/RAM/data/FR1/annotation_gauntlet/session_0/annotation_gauntlet_FR1_
+s0_wordlists.tex
+LaTeX2e <2014/05/01>
+Babel <3.9k> and hyphenation patterns for 78 languages loaded.
+(/usr/local/texlive/2014/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2007/10/19 v1.4h Standard LaTeX document class
+(/usr/local/texlive/2014/texmf-dist/tex/latex/base/size10.clo))
+(/usr/local/texlive/2014/texmf-dist/tex/latex/geometry/geometry.sty
+(/usr/local/texlive/2014/texmf-dist/tex/latex/graphics/keyval.sty)
+(/usr/local/texlive/2014/texmf-dist/tex/generic/oberdiek/ifpdf.sty)
+(/usr/local/texlive/2014/texmf-dist/tex/generic/oberdiek/ifvtex.sty)
+(/usr/local/texlive/2014/texmf-dist/tex/generic/ifxetex/ifxetex.sty))
+(/usr/local/texlive/2014/texmf-dist/tex/latex/multirow/multirow.sty)
+(/usr/local/texlive/2014/texmf-dist/tex/latex/tools/tabularx.sty
+(/usr/local/texlive/2014/texmf-dist/tex/latex/tools/array.sty))
+No file annotation_gauntlet_FR1_s0_wordlists.aux.
+*geometry* driver: auto-detecting
+*geometry* detected driver: dvips
+[1] [2] (./annotation_gauntlet_FR1_s0_wordlists.aux) )
+Output written on annotation_gauntlet_FR1_s0_wordlists.dvi (2 pages, 7388 bytes
+).
+Transcript written on annotation_gauntlet_FR1_s0_wordlists.log.

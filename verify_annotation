@@ -1,0 +1,14 @@
+#!/bin/bash
+DIR="$( cd "$( dirname "${BASH_SOURCE[0]}" )" && pwd )"
+if [[ "$#" -eq "0" ]]; then
+    python $DIR/verify_annotation.py $DIR/session_0 $DIR/session_0_QC > $DIR/verification.txt
+    open $DIR/verification.txt
+    exit
+fi
+if [[ "$#" -lt "2" ]]; then
+    echo "usage: verify_annotation </session/under/test> </QC/session> [--hist]  > <output file> "
+    echo "Note: session arguments can be replaced with a file containing a newline separated list of sessions"
+    exit
+fi
+
+python $DIR/verify_annotation.py "$@"

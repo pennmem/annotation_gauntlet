@@ -1,0 +1,23 @@
+#Begin Header. [Do not edit before this line. Never edit with an instance of the program open.]
+#Annotator: Deb
+#UTC Locally Formatted: February 23, 2016	2:06:45 PM EST
+#UNIX: 1456254405
+#Program Version: 1.10
+#OS Properties: {os.name	Mac OS X}{os.arch	x86_64}{user.name	exp}{user.country	US}{user.language	en}
+#Java Properties: {java.runtime.version	1.6.0_65-b14-462-11M4609}{java.specification.name	Java Platform API Specification}{java.specification.vendor	Sun Microsystems Inc.}{java.specification.version	1.6}{java.vendor	Apple Inc.}{java.version	1.6.0_65}{java.vm.name	Java HotSpot(TM) 64-Bit Server VM}{java.vm.specification.name	Java Virtual Machine Specification}{java.vm.specification.vendor	Sun Microsystems Inc.}{java.vm.specification.version	1.0}{java.vm.vendor	Apple Inc.}{java.vm.version	20.65-b04-462}
+#83 112 97 110 58 32 49 52 53 54 50 53 52 51 57 53 50 49 52 45 49 52 53 54 50 53 52 53 56 55 48 50 48 
+#83 112 97 110 58 32 49 52 53 55 49 50 51 48 53 49 55 48 49 45 49 52 53 55 49 50 51 49 54 50 50 53 51 
+
+2556.258503401361	271	TIE	  
+4407.482993197279	229	SLEEVE
+5407.482993197279	-1	<>	    ["SLEEVE" extends over 1s = mark 1s after onset of "SLEEVE" with a vocalization mark]
+11191.882086167801	-1	<>	    ["umm I don't know I don't know I don't know I don't know" = vocalization]
+12191.882086167801	-1	<>	    ["umm I don't know I don't know I don't know I don't know" continued, > 1s = vocalization mark]
+13191.882086167801	-1	<>	    ["umm I don't know I don't know I don't know I don't know" continued, > 1s = vocalization mark]
+14191.882086167801	-1	<>	    ["umm I don't know I don't know I don't know I don't know" continued, > 1s = vocalization mark]
+16025.691609977326	-1	<>	    ["umm" = vocalization]
+19395.079365079364	8	BALL
+23032.086167800455	-1	<>	    ["uhh" = vocalization]
+24032.086167800455	-1	<>	    ["uhh" continued, > 1s = vocalization mark]
+26902.97052154195	-1	<>	    ["umm I don't know. I don't feel so good about this one." = vocalization]
+27902.97052154195	-1	<>	    ["umm I don't know. I don't feel so good about this one." continued, > 1s = vocalization mark]

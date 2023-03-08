@@ -1,0 +1,19 @@
+#Begin Header. [Do not edit before this line. Never edit with an instance of the program open.]
+#Annotator: Deb
+#UTC Locally Formatted: February 23, 2016	1:43:38 PM EST
+#UNIX: 1456253018
+#Program Version: 1.10
+#OS Properties: {os.name	Mac OS X}{os.arch	x86_64}{user.name	exp}{user.country	US}{user.language	en}
+#Java Properties: {java.runtime.version	1.6.0_65-b14-462-11M4609}{java.specification.name	Java Platform API Specification}{java.specification.vendor	Sun Microsystems Inc.}{java.specification.version	1.6}{java.vendor	Apple Inc.}{java.version	1.6.0_65}{java.vm.name	Java HotSpot(TM) 64-Bit Server VM}{java.vm.specification.name	Java Virtual Machine Specification}{java.vm.specification.vendor	Sun Microsystems Inc.}{java.vm.specification.version	1.0}{java.vm.vendor	Apple Inc.}{java.vm.version	20.65-b04-462}
+#83 112 97 110 58 32 49 52 53 54 50 53 51 48 49 48 55 48 50 45 49 52 53 54 50 53 51 48 52 57 50 51 48 
+#83 112 97 110 58 32 49 52 53 54 50 53 51 48 55 53 53 50 54 45 49 52 53 54 50 53 51 49 57 52 55 50 54 
+#83 112 97 110 58 32 49 52 53 55 49 50 51 50 57 48 55 49 48 45 49 52 53 55 49 50 51 51 54 51 51 55 53 
+
+1416.2811791383222	251	STICK
+2610.0226757369614	55	CLIFF
+4168.344671201814	70	CUP         ["COP"- hard to tell the exact word the patient is saying, but we think annotating this as the word "COP" is the best choice.]
+8089.523809523809	134	JAR
+8966.326530612245	171	PALM
+17294.126984126982	29	BOWL        [&*#&#*#* Hole? Bowl?--- hard to determine, what should we do?]
+28655.782312925174	-1	<>     	    ["I don't know. I think I need..." = vocalization]
+29655.782312925174	-1	<>     	    ["I don't know. I think I need..." continued, >1s = vocalization mark]

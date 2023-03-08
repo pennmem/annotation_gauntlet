@@ -1,0 +1,58 @@
+
+
+
+Welcome to the Annotation Gauntlet! You are entering a world of mysterious sounds, where you alone must decide how these sounds will be identified. The only tool you will be given is a single handbook outlining the art of annotation. Only through careful cultivation of your annotation skills will you be able to overcome the obstacles and survive the Annotation Gauntlet. The stakes are high, but the pay off is even higher. When you succeed, you will be one step closer to deciphering the code of human memory. Good luck and may the odds be forever in your favor! 
+
+
+The Art of Annotation Rulebook: 
+
+Not all words are created equal. Words can either be correct recalls or incorrect recalls (aka intrusions). Intrusions can either be from within the wordpool (prior list intrusions) or from outside the wordpool (extra list intrusions). In addition to words, you will also encounter non-words (aka vocalizations). However, not all non-words can be classified as vocalizations.
+
+******See the Computational Memory Lab's internal Wiki for the full list of annotation guidelines (page: Annotating Vocal Responses (RAM))
+
+
+
+
+
+
+
+
+
+
+
+
+
+Identifying the word
+When a word is unclear (i.e. the word could be "sat" or "cat"), you should always err on the side of words that are part of the wordpool ('cat' in this example). If you are choosing between two words in the wordpool, err on the side of words that are in the bolded set of words (those are the words on the list that the participant is supposed to be recalling, whereas the non bolded words are from other lists in the session). If you are sure the word isn't in the wordpool, mark it as an intrusion (see "Rules for marking vocalizations and intrusions" below). Finally, if the word is really unintelligible and you have no idea what the participant said, mark it as a vocalization.
+
+There are instances when a participant will pluralize a word when recalling it. In these instances, you should ignore the plural and just score it as being the singular version of the word in the wordpool. This also applies to words like 'phone' (i.e. if the person says "telephone," score it as "phone" rather than an intrusion). This would only apply for longer words that contain the desired word. However, if the word was "coat" and the participant says "jacket", "jacket" would not count as a correct recall and should be scored as an intrusion.
+
+Rules for marking the word onset
+Mark the onset as soon as you hear a vocalization (even if it doesn't quite sound like a speech sound).
+The annotation mark should go 5 ms BEFORE the onset of the vocalization (if you press ⌘Z at the annotation mark, you should not hear the onset. If you move forward 5ms--one arrow key--you should hear it).
+Word onset and vocalizations should ONLY be marked for the patient being tested and not any other members in the room.
+If the word lasts audibly longer than 1 second, score the beginning of the word as usual, then put a vocalization mark 1 second (command + shift + forward arrow moves you 500ms) after the beginning of the word (even if the word is only just slightly past the 1 second mark).
+If the word lasts audibly longer than 1 second and is followed by a vocalization, score the beginning of the word, add a vocalization mark 1 second after, and another vocalization mark at the beginning of the vocalization.
+If the person stutters "d..dog," mark the onset at the first "d.."
+If the person says "ma...(as in man)...boy," score "ma" as a vocalization and mark the onset of the word at the first sound of "b."
+If the person says "man...no...boy," score "man" as an intrusion, "no" as a vocalization, and "boy" as a correct recall.
+If the person says it's NOT a certain word, treat that negated word as a vocalization (ex. "cake...not donut," score "cake" as a correct recall, "not" and "donut" as vocalizations)
+If the person says "boy...or something like boy," score the first "boy" as a correct recall, "or something like" as a vocalization, and the second "boy" as a correct recall.
+In general, if the person says a word that is in the word pool, mark it, even if appears in a vocalization or a whisper (Ex: "farmer...no, not farmer...shepherd": if "farmer" is in the word pool, mark "farmer" as a recall twice, "no, not" as a vocalization, and also "shepherd" as a recall).
+If the person says two words so that the first word blends into the second, use your best judgement, but try to mark it such that both words sound like complete words (try not to cut off the first word by putting the mark for the second too early). An easy way to listen to each word is to click and drag over the area you want to listen to.
+If the person mispronounces a word and then corrects themselves, mark the first word (the mispronounced one) as an intrusion and the second as the corrected word. If the person repeats two words without mispronouncing them, however, mark both as the correct word.
+[edit] Rules for vocalizations and intrusions
+Intrusions are recalled words that are not in the participant's wordpool. If you think that someone made an intrusion, first check the .lst file and then look through the wordpool to see if there are any words that sound really similar to what you heard. You can easily do this by scrolling through the wordpool list or just by starting to type the word into the box. If the word really wasn't on the list, you can score it as an intrusion, by typing in the word you think the participant said and hitting Command + Shift + Enter.
+
+Sometimes people will mumble to themselves or say things like "No...wait...wrong word" or "umm..." These should not be scored as intrusions, but as vocalizations. To do this, find the beginning of the vocalization (doesn't have to be quite as exact as a recalled word, but should be pretty close) and hit Command + Shift + Enter without typing anything into the box. This should make a "<>" annotation mark. Do not ignore vocalizations because EEG data during vocalization periods should not be examined. For vocalizations lasting longer than 1 second, score a new '<>' at every full second of the vocalization.
+
+
+
+
+
+
+
+
+
+
+
